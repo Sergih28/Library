@@ -5,22 +5,29 @@ Source of knowledge.
 ## Index
 
 - [Books](#Books)
+- [Jobs](#Jobs)
 - [Libraries](#Libraries)
   - [npm](#npm)
 - [Services](#Services)
   - [Hosting](#Hosting)
 - [Tips](#Tips)
+  - [CSS Tips](#CSS-tips)
+  - [Javascript Tips](#Javascript-tips)
 - [Tools](#Tools)
 - [Videos](#Videos)
   - [Documentaries](#Documentaries)
   - [Talks](#Talks)
-    - [javascript](#javascript)
+    - [Javascript talks](#javascript-talks)
 
 ---
 
 ### Books
 
 - [Clean Code - Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+
+### Jobs
+
+- [Arc](https://arc.dev/)
 
 ### Libraries
 
@@ -36,7 +43,13 @@ Source of knowledge.
 
 ### Tips
 
-- [Box-Sizing CSS](https://www.youtube.com/watch?v=Vx854s9YE78)
+#### CSS tips
+
+- [Box-Sizing](https://www.youtube.com/watch?v=Vx854s9YE78)
+
+#### Javascript tips
+
+- [Array.flat & Array.flatMap](https://www.youtube.com/watch?v=em_Vh7ZGrnw)
 
 ### Tools
 
@@ -58,7 +71,7 @@ Source of knowledge.
 
 #### Talks
 
-##### Javascript
+##### Javascript talks
 
 | Title                                                                          | Author       | Duration | Year | Watched    |
 |--------------------------------------------------------------------------------|--------------|----------|------|------------|

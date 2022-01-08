@@ -30,7 +30,7 @@ Source of knowledge.
 
 | Title                                                                                            | Duration | Watched    |
 |--------------------------------------------------------------------------------------------------|----------|------------|
-| [Elixir: The Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo)                           | 12:48    |            |
+| [Elixir: The Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo)                           | 12:48    | 2022-01-08 |
 | [Ember.js: The Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ)                         | 25:20    |            |
 | [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)                          | 27:57    | 2022-01-05 |
 | [Killswitch](https://www.youtube.com/watch?v=qW1QWot_NUE)                                        | 1:13:49  |            |

@@ -7,6 +7,7 @@ Source of knowledge.
 - [Books](#Books)
 - [Libraries](#Libraries)
   - [npm](#npm)
+- [Tips](#Tips)
 - [Tools](#Tools)
 - [Videos](#Videos)
   - [Documentaries](#Documentaries)
@@ -24,6 +25,10 @@ Source of knowledge.
 #### npm
 
 - [Faker](https://www.npmjs.com/package/faker/v/5.5.3) (Fake data)
+
+### Tips
+
+- [Box-Sizing CSS](https://www.youtube.com/watch?v=Vx854s9YE78)
 
 ### Tools
 

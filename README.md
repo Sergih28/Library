@@ -18,6 +18,7 @@ Source of knowledge.
   - [Documentaries](#Documentaries)
   - [Talks](#Talks)
     - [Javascript talks](#javascript-talks)
+- [Other](#Other)
 
 ---
 
@@ -76,3 +77,7 @@ Source of knowledge.
 | Title                                                                          | Author       | Duration | Year | Watched    |
 |--------------------------------------------------------------------------------|--------------|----------|------|------------|
 | [Learning functional programming](https://www.youtube.com/watch?v=e-5obm1G_FY) | Anjana Vakil | 29:56    | 2016 | 2022-01-06 |
+
+### Other
+
+- [My dream home server](https://www.youtube.com/watch?v=f5jNJDaztqk)

@@ -21,6 +21,7 @@ Source of knowledge.
   - [Documentaries](#Documentaries)
   - [Talks](#Talks)
     - [Javascript talks](#javascript-talks)
+  - [Tutorials](#Tutorials)
 - [Other](#Other)
 
 ---
@@ -93,6 +94,16 @@ Source of knowledge.
 |----------------------------------------------------------------------------------|-----------|----------|------|---------|
 | [Clean code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM) | Uncle Bob | 1:48:41  | 2019 |         |
 | [Clean code - Uncle Bob / Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8) | Uncle Bob | 1:06:00  | 2019 |         |
+
+#### Tutorials
+
+| Title                                                                   | Author  | Duration | Year | Watched |
+|-------------------------------------------------------------------------|---------|----------|------|---------|
+| [Head HTML](https://www.youtube.com/watch?v=kzoRE3kttms)                | Midudev | 42:05    | 2021 |         |
+| [React JS from scratch](https://www.youtube.com/watch?v=T_j60n1zgu0)    | Midudev | 1:47:17  | 2021 |         |
+| [Scraping with Playwright](https://www.youtube.com/watch?v=YjbRkt8cew8) | Midudev | 2:19:21  | 2021 |         |
+| [Solidjs](https://www.youtube.com/watch?v=SvFoN9r0xXM)                  | Midudev | 1:12:30  | 2021 |         |
+| [SWR](https://www.youtube.com/watch?v=feJtBI_HL6M)                      | Midudev | 1:06:46  | 2022 |         |
 
 ##### Javascript talks
 

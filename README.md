@@ -61,6 +61,7 @@ Source of knowledge.
 #### Javascript tips
 
 - [Array.flat & Array.flatMap](https://www.youtube.com/watch?v=em_Vh7ZGrnw)
+- [IIFE (Immediately Invoked Function Expression)](https://www.youtube.com/watch?v=yK_vE6ghox8)
 
 ### Tools
 

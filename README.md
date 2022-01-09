@@ -5,6 +5,8 @@ Source of knowledge.
 ## Index
 
 - [Books](#Books)
+- [Courses](#Courses)
+  - [Platforms](#Platforms)
 - [Jobs](#Jobs)
 - [Libraries](#Libraries)
   - [npm](#npm)
@@ -26,6 +28,13 @@ Source of knowledge.
 ### Books
 
 - [Clean Code - Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+
+### Courses
+
+#### Platforms
+
+- [Egghead](https://egghead.io/)
+- [Mastermind](https://www.mastermind.ac/)
 
 ### Jobs
 

@@ -62,6 +62,7 @@ Source of knowledge.
 
 - [Array.flat & Array.flatMap](https://www.youtube.com/watch?v=em_Vh7ZGrnw)
 - [IIFE (Immediately Invoked Function Expression)](https://www.youtube.com/watch?v=yK_vE6ghox8)
+- [Nullish Coalescing](https://www.youtube.com/watch?v=UYjZ0MDUkn0)
 
 ### Tools
 

@@ -87,6 +87,11 @@ Source of knowledge.
 
 #### Talks
 
+| Title                                                                            | Author    | Duration | Year | Watched |
+|----------------------------------------------------------------------------------|-----------|----------|------|---------|
+| [Clean code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM) | Uncle Bob | 1:48:41  | 2019 |         |
+| [Clean code - Uncle Bob / Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8) | Uncle Bob | 1:06:00  | 2019 |         |
+
 ##### Javascript talks
 
 | Title                                                                          | Author       | Duration | Year | Watched    |

@@ -14,6 +14,7 @@ Source of knowledge.
   - [CSS Tips](#CSS-tips)
   - [Javascript Tips](#Javascript-tips)
 - [Tools](#Tools)
+  - [Design](#Design)
 - [Videos](#Videos)
   - [Documentaries](#Documentaries)
   - [Talks](#Talks)
@@ -55,6 +56,10 @@ Source of knowledge.
 ### Tools
 
 - [SVG Optimization](https://jakearchibald.github.io/svgomg/)
+
+#### Design
+
+- [Flat UI Colors](https://flatuicolors.com/)
 
 ### Videos
 

@@ -69,6 +69,7 @@ Source of knowledge.
 
 - [SVG Optimization](https://jakearchibald.github.io/svgomg/)
 - [10 minute mail](https://10minutemail.com/)
+- [Duck DNS](https://www.duckdns.org/)
 
 #### Design
 

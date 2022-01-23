@@ -29,6 +29,7 @@ Source of knowledge.
 ### Books
 
 - [Clean Code - Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+- [The Javascript Language](https://javascript.info/)
 
 ### Courses
 

@@ -67,9 +67,10 @@ Source of knowledge.
 
 ### Tools
 
-- [SVG Optimization](https://jakearchibald.github.io/svgomg/)
 - [10 minute mail](https://10minutemail.com/)
 - [Duck DNS](https://www.duckdns.org/)
+- [npm semver Calculator](https://semver.npmjs.com/)
+- [SVG Optimization](https://jakearchibald.github.io/svgomg/)
 
 #### Design
 

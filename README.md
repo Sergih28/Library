@@ -70,6 +70,7 @@ Source of knowledge.
 - [10 minute mail](https://10minutemail.com/)
 - [Duck DNS](https://www.duckdns.org/)
 - [npm semver Calculator](https://semver.npmjs.com/)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
 - [SVG Optimization](https://jakearchibald.github.io/svgomg/)
 
 #### Design

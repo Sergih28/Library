@@ -19,6 +19,7 @@ Source of knowledge.
   - [Design](#Design)
 - [Videos](#Videos)
   - [Documentaries](#Documentaries)
+  - [Hacking](#Hacking)
   - [Talks](#Talks)
     - [Javascript talks](#javascript-talks)
   - [Tutorials](#Tutorials)
@@ -92,6 +93,12 @@ Source of knowledge.
 | [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ) | 1:44:59  | 2022-01-07 |
 | [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI)                           | 34:45    | 2022-01-04 |
 | [We Are Legion The Story of the Hacktivists](https://www.youtube.com/watch?v=4D1WJsdu6W8)        | 1:36:40  |            |
+
+### Hacking
+
+| Title                                                                                      | Author       | Duration | Year | Watched    |
+|--------------------------------------------------------------------------------------------|--------------|----------|------|------------|
+| [Google HACKING (use google search to HACK!)](https://www.youtube.com/watch?v=hrVa_dhD-iA) | NetworkChuck | 16:55    | 2020 | 2022-03-13 |
 
 #### Talks
 
